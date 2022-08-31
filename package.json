@@ -1,0 +1,22 @@
+{
+  "name": "fetch-nft-metadata",
+  "version": "1.0.0",
+  "description": "Fetch Ethereum NFT metadata ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Trattner (github.com/RTISCOOL)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "web3": "^1.7.5"
+  },
+  "keywords": [
+    "NFT Metadata",
+    "OpenSea NFT Metadata",
+    "Get NFT Metadata",
+    "Fetch NFT",
+    "NFT Image"
+  ]
+}
